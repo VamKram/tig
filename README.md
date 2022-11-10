@@ -1,0 +1,2 @@
+# tig
+Dupublicate code manage
